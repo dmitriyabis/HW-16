@@ -2,8 +2,6 @@ body {
   margin: 0;
 }
 .bg-box {
-  display: flex;
-  flex-wrap: wrap;
   background: url("/png/lamp.ico") top repeat-x,
     url("/png/green.ico") bottom repeat-x,
     url("/png/jjj\ \(6\).webp") repeat-y left,
